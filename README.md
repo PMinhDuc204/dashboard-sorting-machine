@@ -43,6 +43,9 @@ $ php artisan make:repository name
 $ php artisan jwt:secret
 
 # frontend
+
+$ cp .env.example .env
+
 $ npm install or yarn install
 $ npm run dev or npm run build or yarn build
 ```
